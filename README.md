@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jyots-na
+- #👋 Hi, I’m @Jyots-na#
 - 👀 I’m interested in almost everything
 - 🌱 I’m currently learning how to crack an interview
 - 💞️ I’m looking to collaborate on design or development ideas.

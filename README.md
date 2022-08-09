@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mail at jyotsnadwivedi2903@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BCvJft9AA63J9TuVULjiaLGYoK-61Df8?usp=sharing](https://drive.google.com/drive/folders/1BCvJft9AA63J9TuVULjiaLGYoK-61Df8?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1-lBu-Y4KCiglrTA2mZfHqNP7FNz1myQl/edit?usp=sharing&ouid=116242138934440780521&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I am designated as a power angel, my power is merely solving problems**
 

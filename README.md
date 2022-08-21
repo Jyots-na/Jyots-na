@@ -1,4 +1,4 @@
-<img align="center" width="600" src="https://rishavanand.github.io/static/images/greetings.gif">
+[![MasterHead](https://drive.google.com/file/d/1nKXgq6FOmRsF47PaTbSYYeeyIPV6X-59/view?usp=sharing)](https://github.com/Jyots-na)
 <h1 align="center"> I'm Jyotsna Dwivedi</h1>
 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">

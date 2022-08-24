@@ -1,7 +1,7 @@
-[![MasterHead](https://drive.google.com/file/d/1nKXgq6FOmRsF47PaTbSYYeeyIPV6X-59/view?usp=sharing)](https://github.com/Jyots-na)
-<h1 align="center"> I'm Jyotsna Dwivedi</h1>
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif)](https://github.com/Jyots-na)
+<h1 align="center"> Hello,I'm Jyotsna Dwivedi;</h1>
 
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47841th1shcslkf6m30fal8yy26hqw8s83ckxhjsne&rid=giphy.gif&ct=g">
 <h3 align="center">Recent engineering graduate with semester long internship at Ericsson</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyots-na&label=Profile%20views&color=0e75b6&style=flat" alt="jyots-na" /> </p>

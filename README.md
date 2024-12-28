@@ -2,16 +2,16 @@
 <h1 align="center"> Hello,I'm Jyotsna Dwivedi;</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e47841th1shcslkf6m30fal8yy26hqw8s83ckxhjsne&rid=giphy.gif&ct=g">
-<h3 align="center">Recent engineering graduate with semester long internship at Ericsson</h3>
+<h3 align="center">Solution Integrator at Ericsson</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyots-na&label=Profile%20views&color=0e75b6&style=flat" alt="jyots-na" /> </p>
 
 
 - 📝 My motto is **I think therefore I am**
 
-- 🌱 I’m currently learning **Data, ML and AI in Google Cloud**
+- 🌱 I’m currently learning **Kubernates**
 
-- 👯 I’m looking to collaborate on **CLoud related Projects**
+- 👯 I’m looking to collaborate on **DevOps and Python development Projects**
 
 - 🤝 I’m looking for help with **Logic implementations**
 
@@ -21,9 +21,9 @@
 
 - 📫 How to reach me **mail at jyotsnadwivedi2903@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1-lBu-Y4KCiglrTA2mZfHqNP7FNz1myQl/edit?usp=sharing&ouid=116242138934440780521&rtpof=true&sd=true)
+- 📄 Know about my experiences [My Resume]([https://docs.google.com/document/d/1-lBu-Y4KCiglrTA2mZfHqNP7FNz1myQl/edit?usp=sharing&ouid=116242138934440780521&rtpof=true&sd=true](https://drive.google.com/file/d/1ODZlw-rD6DLGNPVd9OXW8SPVlM2ptC8Z/view?usp=drive_link))
 
-- ⚡ Fun fact **I am designated as a power angel, my power is merely solving problems**
+- ⚡ Fun fact **I was designated as a power angel, my power is merely solving problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

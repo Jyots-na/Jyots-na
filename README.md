@@ -9,7 +9,7 @@
 
 - 📝 My motto is **I think therefore I am**
 
-- 🌱 I’m currently learning **Kubernates**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👯 I’m looking to collaborate on **DevOps and Python development Projects**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mail at jyotsnadwivedi2903@gmail.com**
 
-- 📄 Know about my experiences [My Resume]([https://docs.google.com/document/d/1-lBu-Y4KCiglrTA2mZfHqNP7FNz1myQl/edit?usp=sharing&ouid=116242138934440780521&rtpof=true&sd=true](https://drive.google.com/file/d/1ODZlw-rD6DLGNPVd9OXW8SPVlM2ptC8Z/view?usp=drive_link))
+- 📄 Know about my experiences [My Resume]((https://drive.google.com/file/d/1ODZlw-rD6DLGNPVd9OXW8SPVlM2ptC8Z/view?usp=drive_link))
 
 - ⚡ Fun fact **I was designated as a power angel, my power is merely solving problems**
 
